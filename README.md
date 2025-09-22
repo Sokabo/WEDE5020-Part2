@@ -12,10 +12,12 @@ Sivu's Pawfect Retreat is a premium pet care website designed to provide pet own
 
 ## Goals
 
-- Create a pet care website using only HTML (no CSS or JavaScript).
-- Ensure the site is attractive, accessible, and easy to navigate.
+- Create a pet care website using only HTML CSS(no JavaScript).
+- Ensure the site is attractive, accessible, responsive, simple and easy to navigate.
 - Present all services, testimonials, and contact information clearly.
 - Use images and color to enhance the user experience.
+- With the help of CSS, respansive and attractive buttons must be added.
+- Background must be more attractive.
 
 ---
 
@@ -26,6 +28,9 @@ Sivu's Pawfect Retreat is a premium pet care website designed to provide pet own
 - **Navigation:** Consistent links on every page.
 - **Visuals:** Background image and color for a cheerful, pet-friendly look.
 - **Accessibility:** All text is readable and well-structured.
+- **Contact Page:** Detailed information on how to reach the pet store.
+- **About Page:** History about the pet shop
+- **Enquiry Page:** Ask questions.
 
 ---
 
@@ -36,6 +41,7 @@ Sivu's Pawfect Retreat is a premium pet care website designed to provide pet own
 - `AboutUs.html` – Information about the business/team
 - `Contact.html` – Contact form and details
 - `Enquiry.html` – Enquiry form
+- `style.css` – CSS file
 
 ---
 
