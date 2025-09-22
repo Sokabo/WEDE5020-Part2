@@ -51,6 +51,7 @@ Sivu's Pawfect Retreat is a premium pet care website designed to provide pet own
 - **Week 2:** Created homepage and navigation structure.
 - **Week 3:** Added services page and testimonials.
 - **Week 4:** Finalized content, images, and ensured accessibility.
+- **Week 4 - 7:** Added an external CSS file 
 
 ---
 
@@ -62,6 +63,17 @@ Sivu's Pawfect Retreat is a premium pet care website designed to provide pet own
 - Background images and color schemes applied.
 - Testimonials and pricing tables added.
 - No CSS or JavaScript used, as per requirements.
+
+---
+
+## Part 2 Progress
+
+- Made part 1 changes (added wireframe).
+- CSS File stlye.css was added.
+- All required HTML pages were edited and decorated nicely.
+- Responsive designs were added.
+- CSS styling was added.
+
 
 ---
 
