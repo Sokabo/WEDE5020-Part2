@@ -106,3 +106,6 @@ Sivu's Pawfect Retreat is a premium pet care website designed to provide pet own
 - Bro Code. (2024). Learn HTML forms in 8 minutes 📝 [Video]. YouTube. https://www.youtube.com/watch?v=2O8pkybH6po
 - Bro Code. (2024). How to include a CSS background image 🏙️ [Video]. YouTube. https://www.youtube.com/watch?v=_oFWg_NlKdo
 - w3school.com. (2024). CSS - How to add CSS to HTML - W3Schools.com [Video]. Youtube. https://www.youtube.com/watch?v=VSwaoQ3TFkQ
+
+##SCREENSHOTS
+
