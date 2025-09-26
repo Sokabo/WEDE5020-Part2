@@ -108,4 +108,4 @@ Sivu's Pawfect Retreat is a premium pet care website designed to provide pet own
 - w3school.com. (2024). CSS - How to add CSS to HTML - W3Schools.com [Video]. Youtube. https://www.youtube.com/watch?v=VSwaoQ3TFkQ
 
 ##SCREENSHOTS
-https://github.com/Sokabo/WEDE5020-Part2/blob/da9e98b2e52b863dd3c5159d75fbf8f9006b21c8/Screenshot%202025-09-24%20120237.png
+- ![image alt](https://github.com/Sokabo/WEDE5020-Part2/blob/da9e98b2e52b863dd3c5159d75fbf8f9006b21c8/Screenshot%202025-09-24%20120237.png)
